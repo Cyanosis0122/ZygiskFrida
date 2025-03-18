@@ -52,7 +52,7 @@ android {
     defaultConfig {
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-
+#fhjsjflsjlf;sjofjsjflsjafjsklafj#
         externalNativeBuild {
             ndkBuild {
                 arguments += "MODULE_VERSION_CODE=$moduleVersionCode"
